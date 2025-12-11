@@ -9,5 +9,4 @@ class CriselApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
